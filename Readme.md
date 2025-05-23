@@ -1,0 +1,3 @@
+# PERPLEXITY LOCAL <h1>
+
+PROJETO COM BASE NO VÍDEO DA ASIMOV PARA CRIAÇÃO DE UM AGENT COMO A PERPLEXITY PORÉM EM AMBIENTE LOCAL. [Vídeo](https://www.youtube.com/watch?v=q2XPEjQ4Yt0&t=1417s&ab_channel=AsimovAcademy)
